@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Daniel Gavidia"
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - href: index.qmd
+        text: About
+      - section: Research
+        contents:
+          - href: research.qmd
+            text: Research
+      - section: Teaching
+        contents:
+          - href: teaching.qmd
+            text: Teaching
+      - section: Resources
+        contents:
+          - href: code.qmd
+            text: Code
+          - href: contact.qmd
+            text: Contact
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
