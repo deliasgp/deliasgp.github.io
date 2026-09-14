@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+- Econometrics
+- Data Analytics
+- Data Science for Economists
+- Microeconomics
+- Research Methods

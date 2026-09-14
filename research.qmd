@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### Labor Informality and Poverty Transitions in Peru
+
+Research on poverty transitions and labor informality using longitudinal
+household survey data and discrete-time hazard models.
+
+## Research interests
+
+- Poverty dynamics
+- Labor informality
+- Applied econometrics
+- Survey statistics
+- Machine learning

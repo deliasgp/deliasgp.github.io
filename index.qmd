@@ -1,0 +1,20 @@
+---
+title: "Daniel Gavidia"
+---
+
+## About
+
+I am an economist and statistician interested in applied econometrics,
+poverty dynamics, labor economics, education, and quantitative methods.
+
+My work combines econometric methods, survey data, statistical modeling,
+and machine learning to study economic and public policy problems.
+
+## Research interests
+
+- Applied Econometrics
+- Poverty and Inequality
+- Labor Economics
+- Education Economics
+- Survey Statistics
+- Machine Learning
