@@ -4,7 +4,7 @@ title: "Daniel Gavidia"
 
 ## Sobre mi
 
-Economista con con amplia formación en estadística, econometría y optimización. Mi trabajo está orientado a proveer de análisis profundo y nuevas perspectivas en economía usando métodos cuantitativos.
+Economista con con amplia formación en estadística, econometría y optimización. Mi trabajo se centra en el análisis cuantitativo, modelamiento estadístico y matemático con aplicaciones en el sector público. Actualmente busco orientar progresivamente mi trayectoria hacia la investigación en aprendizaje automático y causalidad. 
 
 ## Áreas de interés
 
