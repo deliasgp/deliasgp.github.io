@@ -8,21 +8,17 @@ website:
     search: true
     contents:
       - href: index.qmd
-        text: About
-      - section: Research
-        contents:
-          - href: research.qmd
-            text: Research
-      - section: Teaching
-        contents:
-          - href: teaching.qmd
-            text: Teaching
+        text: Sobre mí
+      - href: research.qmd
+        text: Investigaciones
+      - href: teaching.qmd
+        text: Docencia
       - section: Resources
         contents:
           - href: code.qmd
-            text: Code
+            text: Códigos
           - href: contact.qmd
-            text: Contact
+            text: Contáctame
 format:
   html:
     theme: darkly

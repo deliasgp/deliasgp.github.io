@@ -1,8 +1,7 @@
 ---
-title: "Code and Projects"
+title: "Proyectos en R y Python"
 ---
 
-Selected R and Python projects on econometrics, statistics,
-machine learning, and data visualization.
+Algunos proyectos sobre econometría, estadística y aprendizaje automático y visualización.
 
 [GitHub repositories](https://github.com/deliasgp)

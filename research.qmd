@@ -1,18 +1,16 @@
 ---
-title: "Research"
+title: "Investigaciones"
 ---
 
-## Working Papers
+## Investigaciones
+[Finite mixture of Birnbaum-Saunders based on an asymmetric heavy-tailed distribution](https://revstat.ine.pt/index.php/REVSTAT/article/view/744)
 
-### Labor Informality and Poverty Transitions in Peru
+[Determinantes y efectos del riego tecnificado: Un análisis económico para la sierra norte de La Libertad](https://cies.org.pe/investigacion/determinantes-y-efectos-del-riego-tecnificado-un/)
 
-Research on poverty transitions and labor informality using longitudinal
-household survey data and discrete-time hazard models.
+## Áreas de interés
 
-## Research interests
-
-- Poverty dynamics
-- Labor informality
-- Applied econometrics
-- Survey statistics
-- Machine learning
+- Econometría aplicada
+- Pobreza y desigualdad
+- Economía de la educación
+- Muestras complejas
+- Aprendizaje automático

@@ -2,11 +2,10 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Investigaciones",
     "section": "",
-    "text": "Research on poverty transitions and labor informality using longitudinal household survey data and discrete-time hazard models.",
+    "text": "Finite mixture of Birnbaum-Saunders based on an asymmetric heavy-tailed distribution\nDeterminantes y efectos del riego tecnificado: Un análisis económico para la sierra norte de La Libertad",
     "crumbs": [
-      "Research",
       "Research"
     ]
   },
@@ -17,7 +16,6 @@
     "section": "",
     "text": "Research on poverty transitions and labor informality using longitudinal household survey data and discrete-time hazard models.",
     "crumbs": [
-      "Research",
       "Research"
     ]
   },
@@ -28,8 +26,141 @@
     "section": "Research interests",
     "text": "Research interests\n\nPoverty dynamics\nLabor informality\nApplied econometrics\nSurvey statistics\nMachine learning",
     "crumbs": [
-      "Research",
       "Research"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Gavidia",
+    "section": "",
+    "text": "Economista con con amplia formación en estadística, econometría y optimización. Mi trabajo está orientado a proveer de análisis profundo y nuevas perspectivas en economía usando métodos cuantitativos.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Daniel Gavidia",
+    "section": "",
+    "text": "I am an economist and statistician interested in applied econometrics, poverty dynamics, labor economics, education, and quantitative methods.\nMy work combines econometric methods, survey data, statistical modeling, and machine learning to study economic and public policy problems.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Daniel Gavidia",
+    "section": "Research interests",
+    "text": "Research interests\n\nApplied Econometrics\nPoverty and Inequality\nLabor Economics\nEducation Economics\nSurvey Statistics\nMachine Learning",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Cursos",
+    "section": "",
+    "text": "Econometría\nEstadítisca\nAprendizaje automático\nMicroeconomía\nTécnicas de muestreo",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Cursos",
+    "section": "",
+    "text": "Econometría\nEstadítisca\nAprendizaje automático\nMicroeconomía\nTécnicas de muestreo",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Proyectos en R y Python",
+    "section": "",
+    "text": "Algunos proyectos sobre econometría, estadística y aprendizaje automático y visualización.\nGitHub repositories",
+    "crumbs": [
+      "Resources",
+      "Code"
+    ]
+  },
+  {
+    "objectID": "research.html#investigaciones",
+    "href": "research.html#investigaciones",
+    "title": "Investigaciones",
+    "section": "",
+    "text": "Finite mixture of Birnbaum-Saunders based on an asymmetric heavy-tailed distribution\nDeterminantes y efectos del riego tecnificado: Un análisis económico para la sierra norte de La Libertad",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#áreas-de-interés",
+    "href": "research.html#áreas-de-interés",
+    "title": "Investigaciones",
+    "section": "Áreas de interés",
+    "text": "Áreas de interés\n\nEconometría aplicada\nPobreza y desigualdad\nEconomía de la educación\nMuestras complejas\nAprendizaje automático",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "deliasgp",
+    "crumbs": [
+      "Resources",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#github",
+    "href": "contact.html#github",
+    "title": "Contact",
+    "section": "",
+    "text": "deliasgp",
+    "crumbs": [
+      "Resources",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#linkedin",
+    "href": "contact.html#linkedin",
+    "title": "Contact",
+    "section": "LinkedIn",
+    "text": "LinkedIn\nLinkedIn",
+    "crumbs": [
+      "Resources",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "index.html#sobre-mi",
+    "href": "index.html#sobre-mi",
+    "title": "Daniel Gavidia",
+    "section": "",
+    "text": "Economista con con amplia formación en estadística, econometría y optimización. Mi trabajo está orientado a proveer de análisis profundo y nuevas perspectivas en economía usando métodos cuantitativos.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#áreas-de-interés",
+    "href": "index.html#áreas-de-interés",
+    "title": "Daniel Gavidia",
+    "section": "Áreas de interés",
+    "text": "Áreas de interés\n\nEconometría aplicada\nPobreza y desigualdad\nEconomía de la educación\nMuestras complejas\nAprendizaje automático",
+    "crumbs": [
+      "About"
     ]
   }
 ]

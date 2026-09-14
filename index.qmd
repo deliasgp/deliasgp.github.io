@@ -2,19 +2,14 @@
 title: "Daniel Gavidia"
 ---
 
-## About
+## Sobre mi
 
-I am an economist and statistician interested in applied econometrics,
-poverty dynamics, labor economics, education, and quantitative methods.
+Economista con con amplia formación en estadística, econometría y optimización. Mi trabajo está orientado a proveer de análisis profundo y nuevas perspectivas en economía usando métodos cuantitativos.
 
-My work combines econometric methods, survey data, statistical modeling,
-and machine learning to study economic and public policy problems.
+## Áreas de interés
 
-## Research interests
-
-- Applied Econometrics
-- Poverty and Inequality
-- Labor Economics
-- Education Economics
-- Survey Statistics
-- Machine Learning
+- Econometría aplicada
+- Pobreza y desigualdad
+- Economía de la educación
+- Muestras complejas
+- Aprendizaje automático
